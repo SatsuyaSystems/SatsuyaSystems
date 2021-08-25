@@ -3,10 +3,6 @@
 </p>
 <br>
 <p align="center">
-<img alt="Discord" src="https://img.shields.io/discord/779689684690272286?color=%23000000&label=Discord&logo=Discord&logoColor=%236300bf&style=for-the-badge">
-</p>
-<br>
-<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=notRias&count_private=true&theme=midnight-purple" />
 </p>
 <br>
