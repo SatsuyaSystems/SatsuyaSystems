@@ -1,7 +1,7 @@
 <h1 align="center">EXPLOIT</h1>
 <br>
 <p align="center">
-  <img width="300" height="300" src="https://exploit-community.de/assets/img/longlogo.png">
+  <img src="https://exploit-community.de/assets/img/longlogo.png">
 </p>
 <br>
 <p align="center">
