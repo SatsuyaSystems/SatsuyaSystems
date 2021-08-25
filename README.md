@@ -3,7 +3,7 @@
 </p>
 <br>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=notRias&count_private=true&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EXPLOIT-SYSTEMS&count_private=true&theme=midnight-purple" />
 </p>
 <br>
 <p align="center"><a href="https://exploit-community.de/discord" >Join Discord</a></p>
