@@ -3,6 +3,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SatsuyaSystems&count_private=true&theme=midnight-purple" />
 </p>
 <br>
-<p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg" />
-</p>
+<a href="https://github.com/oOHiyoriOo" style="display:inline;">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=SatsuyaSystems&show_icons=true&include_all_commits=true&show_icons=true&title_color=ff00ff&icon_color=7c00ff&text_color=9f9f9f&bg_color=252525" alt="SatsuyaSystems Stats" />
+</a>
