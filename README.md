@@ -1,9 +1,9 @@
 # 💫 About Me:
-Im currently working on Mimi-Bot<br>Im a Full Stack Developer<br>I know JavaScript, Java, C#, Python<br>Im German<br>I AM ROOT
+Im currently working on Mimi-Bot<br>Im a Full Stack Developer<br>I know TypeScript, JavaScript, Java, C#, Python<br>Im German<br>I AM ROOT
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/MVjcXuS6pP)<br>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/uHhbWEVeJ4)<br>
 ![DiscordProfile](https://discord.c99.nl/widget/theme-1/770388028597469235.png)
 
 
